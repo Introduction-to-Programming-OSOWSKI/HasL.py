@@ -1,16 +1,26 @@
-# **Assignment Title**  
+# **HasL**  
 
 ## **Assignment Description**  
-
+Create a function calle hasL() that returns true/false if a given word w contains at least once instance of the lettet "l". Assume all characters are lowercase.
 
 ## **Examples**  
->
+>hasL("dog")  
+False  
+
+>hasL("alabama")  
+True
 
 ## **Limitations**  
+1 function  
+1 for loop  
+1 if  
 
 ## **Hints**  
+You can put if statements inside of for loops.
+
 
 ## **Concepts**  
+Unit 1, Unit2, for loops, arrays
 
 ---
 
