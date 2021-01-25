@@ -20,7 +20,7 @@ You can put if statements inside of for loops.
 
 
 ## **Concepts**  
-Unit 1, Unit2, for loops, arrays
+Unit 1, Unit2, for loops, lists
 
 ---
 
