@@ -10,7 +10,11 @@ month = 1
 day = 25
 
 def test_code():
-    assert 0 > 1, "error"
+    assert main.hasL("cat") == False, 'hasL("cat") == False failed'
+    assert main.hasL("qwertyuiop") == False, 'hasL("qwertyuiop") == False failed'
+    assert main.hasL("aergjnsdgljpyj") == True, 'hasL("aergjnsdgljpyj") == True failed'
+    assert main.hasL("pool") == True, 'hasL("pool") == True failed'
+
 
 def test_late():
     assert datetime.datetime.now() < datetime.datetime(year, month, day + 1, 4, 0), "Submitted Late"
