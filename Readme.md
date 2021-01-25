@@ -1,7 +1,7 @@
 # **HasL**  
 
 ## **Assignment Description**  
-Create a function calle hasL() that returns true/false if a given word w contains at least once instance of the lettet "l". Assume all characters are lowercase.
+Create a function called hasL() that returns true/false if a given word w contains at least once instance of the lettet "l". Assume all characters are lowercase.
 
 ## **Examples**  
 >hasL("dog")  
