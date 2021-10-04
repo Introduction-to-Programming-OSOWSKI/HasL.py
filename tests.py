@@ -6,8 +6,8 @@ import main;
 import datetime;
 
 year = 2021
-month = 1
-day = 25
+month = 10
+day = 8
 
 def test_code():
     assert main.hasL("cat") == False, 'hasL("cat") == False failed'
